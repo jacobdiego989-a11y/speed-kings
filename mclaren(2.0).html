@@ -1,0 +1,167 @@
+<DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>McLaren</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    img.logo {
+      width: 150px;
+      margin-bottom: 20px;
+    }
+
+    .auto-section {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 30px;
+      margin-bottom: 50px;
+      flex-wrap: wrap;
+    }
+
+    .auto-section img {
+      width: 400px;
+      height: auto;
+      border-radius: 10px;
+    }
+
+    .auto-info {
+      text-align: left;
+      max-width: 400px;
+    }
+
+    h2 {
+      color: lime;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      list-style: disc;
+      padding-left: 20px;
+    }
+
+    select, input[type="checkbox"] {
+      color: lime;
+      background-color: black;
+      border: 2px solid red;
+      padding: 10px;
+      font-size: 16px;
+      margin: 10px 0;
+    }
+
+    option {
+      background-color: black;
+      color: lime;
+    }
+
+    video {
+      margin-top: 20px;
+      border: 2px solid white;
+    }
+
+    a {
+      display: inline-block;
+      margin-top: 30px;
+      color: orange;
+      text-decoration: underline;
+    }
+
+    .question {
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="img-McLaren/mclaren-logo.jpg" alt="McLaren" class="logo">
+
+    <p>
+      McLaren fue fundada en 1963 por el piloto neozelandés Bruce McLaren en Inglaterra. Comenzó como un equipo de Fórmula 1 y rápidamente ganó reconocimiento por su innovación y éxito en las pistas. En 1992, la marca lanzó el McLaren F1, uno de los superdeportivos más icónicos de la historia. Hoy, McLaren Automotive crea autos de lujo de alto rendimiento como el 720S y el Artura, mezclando tecnología de competición con diseño futurista y precisión británica.
+    </p>
+
+    <p style="font-weight: bold; margin: 30px 0;">A continuación verás un TOP 3 de los autos más rápidos de McLaren :)</p>
+
+    
+    <div class="auto-section">
+      <div class="auto-info">
+        <h2>I. McLaren P1</h2>
+        <ul>
+          <li>Motor: V8 3.8L biturbo + motor eléctrico (híbrido enchufable)</li>
+          <li>Potencia combinada: 903 hp</li>
+          <li>0–100 km/h: 2.8 segundos</li>
+          <li>Velocidad máxima: 350 km/h (limitada electrónicamente)</li>
+          <li>Tracción: Trasera (RWD)</li>
+          <li>Producción: 375 unidades (edición limitada)</li>
+          <li>Características clave: Hiperauto híbrido pionero. Aerodinámica activa, tecnología de F1, enfoque brutal en pista y conducción extrema.</li>
+        </ul>
+      </div>
+      <img src="img-McLaren/mclaren-p1.jpg" alt="McLaren P1">
+    </div>
+
+    <div class="auto-section">
+      <div class="auto-info">
+        <h2>II. McLaren 765LT</h2>
+        <ul>
+          <li>Motor: V8 4.0L biturbo</li>
+          <li>Potencia: 755 hp (765 PS)</li>
+          <li>0–100 km/h: 2.7 segundos</li>
+          <li>Velocidad máxima: 330 km/h</li>
+          <li>Peso: ~1,229 kg (muy ligero)</li>
+          <li>Características clave: Versión extrema del 720S. Más ligera, más agresiva, escape de titanio, chasis afinado para track days. Una bestia para circuitos.</li>
+        </ul>
+      </div>
+      <img src="img-McLaren/McLaren 765LT.jpg" alt="McLaren 765LT">
+    </div>
+
+    <div class="auto-section">
+      <div class="auto-info">
+        <h2>III. McLaren Artura</h2>
+        <ul>
+          <li>Motor: V6 3.0L biturbo + motor eléctrico (híbrido enchufable)</li>
+          <li>Potencia combinada: 671 hp</li>
+          <li>0–100 km/h: 3.0 segundos</li>
+          <li>Velocidad máxima: 330 km/h</li>
+          <li>Autonomía eléctrica: ~30 km</li>
+          <li>Transmisión: 8 velocidades, sin marcha atrás (modo reversa con el motor eléctrico)</li>
+          <li>Características clave: Primer McLaren con arquitectura totalmente nueva en más de una década. Balance perfecto entre tecnología, eficiencia y performance.</li>
+        </ul>
+      </div>
+      <img src="img-McLaren/McLaren Artura.jpeg" alt="McLaren Artura">
+    </div>
+
+    <p style="font-weight: bold; margin: 30px 0;">¿Elegancia? ¿Superioridad? ¿Increíble? = McLaren.</p>
+
+    <video width="640" height="360" controls>
+      <source src="C:\speed kings\pág. webb\img-McLaren\video-mclaren.mp4" type="video/mp4">
+    </video>
+
+    <div class="question">
+      <h1>Selecciona tu modelo de McLaren favorito:</h1>
+      <select name="autos">
+        <option>McLaren P1</option>
+        <option>McLaren 765LT</option> 
+        <option>McLaren Artura</option>
+      </select>
+    </div>
+
+    <div class="question">
+      <h1>¿Te gustaron los carros que se mostraron?</h1>
+      <label><input type="checkbox" name="autos"> <span>Sí</span></label><br>
+      <label><input type="checkbox" name="autos"> <span>No</span></label>
+    </div>
+
+    <a href="Speed KINGS.html">¡Pulsa aquí para volver a la página principal!</a>
+  </div>
+</body>
+</html>

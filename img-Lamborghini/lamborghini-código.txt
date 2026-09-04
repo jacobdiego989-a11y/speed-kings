@@ -1,0 +1,105 @@
+<DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>Lamborghini</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-black text-white text-center p-6">
+  <img src="C:\speed kings\pág. webb\img-Lamborghini\lamborghini_svj.jpg" alt="Lamborghini" class="w-40 mx-auto mb-4">
+  <p><b>Lamborghini</b> fue fundada en 1963 por Ferruccio Lamborghini en Sant'Agata Bolognese, Italia. Originalmente fabricante de tractores, Ferruccio decidió crear autos deportivos de lujo tras una discusión con Enzo Ferrari sobre la calidad de sus autos. Así nació Automobili Lamborghini, destacándose rápidamente por sus diseños innovadores y alto rendimiento. Modelos como el Miura, Countach y Aventador han marcado la historia del automovilismo. Hoy,Lamborghini es sinónimo de potencia, diseño extremo y exclusividad.
+</p>
+<br>
+  <p><center><b>A continuación verás un TOP 3 de los autos más rápidos de Lamborghini:)</p></center></b>
+  <br>
+  <br>
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px;">
+  <div class="text-left max-w-xl mx-auto">
+    <h2 class="text-lg font-bold mb-2">I. Lamborghini RevueltooOOOOooooOooo</h2>
+    <ul class="list-disc pl-5 space-y-1">
+   <li>Motor: V12 6.5L atmosférico + 3 motores eléctricos (PHEV)</li>
+   <li>Potencia combinada: 1,001 hp</li>
+   <li>Tracción: AWD (eléctrico en eje delantero)</li>
+   <li>Transmisión: DCT de 8 velocidades</li>
+   <li>Peso: 1,772 kg</li>
+   <li>Chasis: monocasco de carbono de nueva generación</li>
+   <li>Interior: triple pantalla (instrumental, central y copiloto), diseño futurista</li>
+  <li>Tecnología: aerodinámica activa, vectorización eléctrica, frenos carbocerámicos</li>
+  <li> 0–100 km/h: 2.5 s | Velocidad máxima: 350 km/h</li>
+  </ul>
+  </div>
+</p>
+  <img src="C:\Users\USUARIO\Desktop\JHAYCO\PÁGINA WEB\img-Lamborghini\LamboRevuelt.jpg" alt="Lamborghini" style="width: 400px; height: auto;">
+</div>
+<br>
+<br>
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px;">
+  <div class="text-left max-w-xl mx-auto">
+    <h2 class="text-lg font-bold mb-2">II. Lamborghini Huracán STO</h2>
+    <ul class="list-disc pl-5 space-y-1">
+   <li>Motor: V10 5.2L atmosférico</li>
+   <li>Potencia: 640 hp</li>
+   <li>Tracción: RWD</li>
+   <li>Transmisión: DCT de 7 velocidades</li>
+   <li>Peso: 1,339 kg</li>
+   <li>Chasis: 75% de componentes en fibra de carbono</li>
+   <li>Interior: jaula antivuelco opcional, asientos tipo bucket, info pista</li>
+   <li>Tecnología: control de tracción recalibrado, frenos CCM-R (derivados de F1)</li>
+   <li>0–100 km/h: 3.0 s | Velocidad máxima: 310 km/h</li>
+  </ul>
+  </div>
+</p>
+  <img src="C:\Users\USUARIO\Desktop\JHAYCO\PÁGINA WEB\img-Lamborghini\LamboSTO.jpg" alt="Lamborghini" style="width: 400px; height: auto;">
+</div>
+<br>
+<br>
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 10px;">
+  <div class="text-left max-w-xl mx-auto">
+    <h2 class="text-lg font-bold mb-2">III.  Lamborghini Sián FKP 37</h2>
+    <ul class="list-disc pl-5 space-y-1">
+   <li>Motor: V12 6.5L + motor eléctrico alimentado por supercondensador</li>
+   <li>Potencia combinada: 819 hp</li>
+   <li>Tracción: AWD</li>
+   <li>Transmisión: ISR de 7 velocidades</li>
+   <li>Peso: 1,595 kg</li>
+   <li>Chasis: monocasco de carbono, aerodinámica activa</li>
+   <li>Interior: personalización Ad Personam total, diseño inspirado en Countach</li>
+   <li>Tecnología: supercondensador (más ligero y rápido que baterías), carga regenerativa total</li>
+   <li>Producción: 63 unidades coupé, 19 roadsters</li>
+   <li>0–100 km/h: 2.8 s | Velocidad máxima: 350 km/h</li>
+  </ul>
+  </div>
+</p>
+  <img src="C:\Users\USUARIO\Desktop\JHAYCO\PÁGINA WEB\img-Lamborghini\Lamborghini Sián.jpg" alt="Lamborghini" style="width: 400px; height: auto;">
+</div>
+
+
+
+
+
+
+
+  <a href="Speed KINGS.html" class="mt-4 inline-block underline text-yellow-400">¡Pulsa aquí para volver a la página principal!</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
